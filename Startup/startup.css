@@ -1,0 +1,43 @@
+body {
+	padding-top: 70px;
+	background-image: url(cucumber-background.png);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+
+.jumbotron {
+	color: #2c3e50;
+}
+
+.col-lg-12 {
+	/*border: 6px solid red;*/
+	text-align: center;
+}
+
+h1 {
+	font-size: 7em;
+	font-family: 'Pacifico', cursive;
+	color: #003d04;
+}
+
+p {
+	font-size: 1.2em;
+	text-transform: uppercase;
+	font-family: Nunito;
+	font-weight: 300;
+}
+
+#headline {
+	margin-top: 120px; 
+}
+
+#subheadline {
+	margin-top: 40px;
+}
+
+.form {
+	/*border: 5px solid red;*/
+	text-align: center;
+	margin-top: 20px;
+}

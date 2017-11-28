@@ -1,0 +1,40 @@
+body {
+	width: 60%;
+	margin: 0 auto;
+	border: 25px solid #bdc3c7;
+	margin-top: 20px;
+}
+
+h1 {
+	font-family: Source Sans Pro;
+	color: #2c3e50;
+	margin-left: 15px;
+}
+
+h2 {
+	font-family: Source Sans Pro;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 1em;
+	color: #3498db;
+	margin-left: 15px;
+}
+
+p {
+	font-family: Source Sans Pro;
+	color: black;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+hr {
+	margin-right: 15px;
+	margin-left: 15px;
+	border-color: #bdc3c7;
+}
