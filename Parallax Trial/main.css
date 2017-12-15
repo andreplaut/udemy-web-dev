@@ -1,0 +1,33 @@
+body {
+	background-color: grey;
+}
+
+.parallax {
+	min-height: 600px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#bgOne {
+	background-image: url("bgOne.png");
+}
+
+#bgTwo {
+	background-image: url("http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1485547918/new-york-city-skyline-BIGCITY0117.jpg?itok=po0Op8ou");
+}
+
+.contentBlock {
+	height: 200px;
+	background-color: red;
+	opacity: 0.5;
+	font-size: 36px;
+}
+
+.contentOverlay {
+	height: 500px;
+	background-color: white;
+	opacity: 0.5;
+	font-size: 36px;
+}
